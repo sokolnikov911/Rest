@@ -3,7 +3,7 @@
     "description": "Thin controller for RESTful applications",
     "type": "library",
     "homepage": "http://respect.li/",
-    "license": "BSD Style",
+    "license": "MIT",
     "authors": [
         {
             "name": "Alexandre Gaigalas",
@@ -28,11 +28,6 @@
     "autoload-dev": {
         "psr-4": {
             "Stubs\\": "tests/src/Stubs"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.6-dev"
         }
     }
 }
